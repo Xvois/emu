@@ -1,1 +1,1 @@
-worker: node bot.js EMU Bot
+worker node bot.js EMU Bot
